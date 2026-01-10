@@ -6,7 +6,7 @@ I made this Pong game with python and pygame
 
 # Pong Game 
 
-A classic Pong game built using Python and Pygame.
+A  Pong game built using Python and Pygame.
 
 ## Features
 - Player vs CPU
