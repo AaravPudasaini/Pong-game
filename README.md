@@ -17,3 +17,6 @@ A classic Pong game built using **Python** and **Pygame**.
 ## How to Run
 1. Install Python
 2. Install pygame:
+
+# Author
+Aarav Pudasaini
