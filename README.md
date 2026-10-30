@@ -1,5 +1,5 @@
-# Pong-game
-I made this Pong game with python and pygame
+# About the project
+I am a 15 Year old student with a genuine interest in computer science and programming. I developed this python game independently in my freetime to explore my interests in coding and my creating abilities
 
 
 [Pong game by Aarav Pudasaini.py](https://github.com/user-attachments/files/24544270/Pong.game.by.Aarav.Pudasaini.py)
